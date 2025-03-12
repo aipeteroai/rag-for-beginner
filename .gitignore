@@ -9,4 +9,3 @@ wheels/
 # Virtual environments
 .venv
 .env
-step_00_data_download/downloaded_docs/
