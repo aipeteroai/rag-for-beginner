@@ -39,7 +39,7 @@ uv pip install -e .
 프로젝트의 의존성을 동기화하려면 다음 명령어를 실행하세요:
 
 ```bash
-uv pip sync
+uv sync
 ```
 
 ### 3. 환경 변수 설정
